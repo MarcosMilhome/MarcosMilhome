@@ -3,7 +3,7 @@
 - 👷 Sou formado em Engenharia Elétrica pela Universidade Federal do Ceará.
 - ✨ Possuo conhecimento em JS, HTML, CSS, Node, MongoDB.
 - 🌱 Estudando React, SQL, TypeScript.
-- 😄 Pronomess: Ele/Dele.
+- 😄 Pronomes: Ele/Dele.
 
 ##
 
